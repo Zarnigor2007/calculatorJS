@@ -1,4 +1,4 @@
-#calculatorJS by Zarnigor2007
+# calculatorJS by Zarnigor2007
 calculatorJS is a simple calculator made using HTML, CSS and vanilla JavaScript.
 
 ![Calculator Design Preview](CalculatorThumbnail.png)
